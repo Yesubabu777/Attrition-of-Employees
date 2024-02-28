@@ -1,1 +1,2 @@
 # Attrition-of-Employees
+At first I cleaned the data and after that I have gone through some exploratory Data Analysis where we get to know some data Insights that can be used to present Stake holders,Then I went through different types of feature selection techniques there after I used these feature selection techniques to different models and there accuracies and classification reports are presented in code.
